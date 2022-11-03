@@ -1,5 +1,5 @@
 #!/bin/bash
-#code_recorded_by_tech_cochi
+#code_recorded_by_ArynzClem
 clear
 sleep 1
 echo ""
